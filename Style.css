@@ -1,0 +1,29 @@
+h1 {background-color: Royalblue;
+    color: White;
+    font-size: 57;
+    text-align: center;
+    width: 100%;
+    height: 73px; }
+
+h2 {text-align: center; 
+    font-size: 28; 
+    color: rgb(141, 9, 9); }
+
+p { font-size: 20; }
+
+#ramp {text-align: center; }
+
+div {justify-content: center;
+    text-align: center; }
+.photo {display: block;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100% }
+
+footer {background-color: #D2B48C; color: #221811;
+        font-size: .90em;
+        font-style: italic;
+        text-align: center; 
+        padding-bottom: 7px; 
+        border-top: 2px; } 
